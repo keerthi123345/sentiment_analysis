@@ -130,7 +130,7 @@ sentiment-analysis-cnn/
 
 ---
 ## 📄 Related Work 
-<sub>🔬 [HOLOSIGN: Universal Gesture Communication System](https://doi.org/10.5281/zenodo.19596702) — Published in JCES, April 2026</sub>
+<p><small>🔬 <b>Related Work:</b> <a href="https://doi.org/10.5281/zenodo.19596702">HOLOSIGN: Universal Gesture Communication System</a> — Published in JCES, April 2026</small></p>
 ---
 ## 👩‍💻 Author
 
