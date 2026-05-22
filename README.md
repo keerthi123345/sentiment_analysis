@@ -42,8 +42,8 @@ Dense (1, Sigmoid) → 0 = Negative | 1 = Positive
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/your-username/sentiment-analysis-cnn.git
-cd sentiment-analysis-cnn
+git clone https://github.com/keerthi123345/sentiment_analysis.git
+cd sentiment_analysis
 
 python -m venv .venv
 .venv\Scripts\activate        # Windows
@@ -129,7 +129,10 @@ sentiment-analysis-cnn/
 - **Matplotlib / Seaborn** — visualisation
 
 ---
-
+## 📄 Related Work
+🔬 **HOLOSIGN: Universal Gesture Communication System** — Published in JCES, April 2026  
+DOI: https://doi.org/10.5281/zenodo.19596702
+---
 ## 👩‍💻 Author
 
 **Singamsetti Keerthi** — B.Tech CSE | AI/ML Enthusiast  
